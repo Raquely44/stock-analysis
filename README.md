@@ -16,10 +16,11 @@
 
 <img src="Resources/Code_Runtime_2017_Refactored.PNG">
 <img src="Resources/Code_Runtime_2018_Refactored.PN">
-We can see the results of the code below
 
-![](.Screenshot_Excel 2017.png)
-![](.Screenshot_Excel 2018.png)
+*We can see the results of the code below*
+
+<img src="Resources/Screenshot_Excel 2017.png">
+<img src="Resources/Screenshot_Excel 2018.png">
 
 ## Summary
 ---
